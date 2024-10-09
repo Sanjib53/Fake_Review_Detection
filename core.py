@@ -9,6 +9,7 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import accuracy_score, classification_report
 import nltk
 
+
 # Download necessary NLTK data
 nltk.download('stopwords')
 nltk.download('punkt')
